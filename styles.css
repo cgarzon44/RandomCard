@@ -1,0 +1,45 @@
+/* background */
+body{
+  background-color: green;
+}
+
+#RandomCard{
+display:flex;
+width: 200px;
+height: 300px;
+background-color:white;
+border-radius: 10px;
+margin:auto;
+  }
+
+#RandomCardValue{
+  font-size: 100px;
+  margin:auto;
+}
+
+
+#RandomSuit{
+ font-size: 60px;
+ margin:auto;
+ padding-bottom: 200px;
+ position: relative;
+ 
+}
+
+#RandomSuit1{
+  font-size: 60px;
+  margin:auto;
+  padding-top:200px;
+  position: relative;
+  
+  
+ }
+
+
+ #randombutton{
+  display:flex;
+  margin:auto;
+ }
+
+
+ 
