@@ -56,5 +56,8 @@ CardValueSlot.innerHTML = theCardValue;
 
 }
 
+// Auto Switch every 10 Sec
+window.setInterval(Buildcard, 10000);
+
 
 
