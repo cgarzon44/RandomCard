@@ -37,7 +37,7 @@ const SuitSlot = document.getElementById('RandomSuit');
 const SuitSlot1 = document.getElementById('RandomSuit1');
 const CardValueSlot = document.getElementById('RandomCardValue');
 
-//  Color Text Change
+//  Change Text Color
 if(SuitIndex <= 1){
   SuitSlot.style.color = 'red';
      SuitSlot1.style.color = 'red';
